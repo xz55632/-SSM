@@ -122,3 +122,8 @@
 ![image](https://github.com/xz55632/market/blob/main/%E5%AE%BF12.jpg)
 
 圖5-12分配任務管理介面圖
+
+
+
+
+參考文件:https://blog.csdn.net/bishe401/article/details/127224532
