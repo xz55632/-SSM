@@ -47,4 +47,4 @@
 
 5.1登录注册模块
 员工宿舍管理系统，管理员、员工和维修员通过填写用户名、密码等信息选择角色进行登录就可以使用了，如图5-1所示。
-![image]()
+![image](https://github.com/xz55632/market/blob/main/%E5%AE%BF1.jpg)
