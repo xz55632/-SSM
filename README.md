@@ -28,3 +28,4 @@
 
 3.4系統用例圖
 系統用例圖如下圖3-2所示：
+![image](https://github.com/xz55632/market/blob/main/11024142-2.png)
