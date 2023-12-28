@@ -90,5 +90,5 @@
 ![image](https://github.com/xz55632/market/blob/main/%E5%AE%BF11.jpg)
 圖5-11報修資訊管理介面圖
 分配任務管理，在分配任務管理頁面可以對索引、宿舍名稱、位置、報修名稱、員工帳號、員工姓名、上報日期、維修員帳號、維修員姓名、分配時間等內容進行詳情、修改或刪除等操作，如圖5-12所示。
-![image]()
+![image](https://github.com/xz55632/market/blob/main/%E5%AE%BF12.jpg)
 圖5-12分配任務管理介面圖
