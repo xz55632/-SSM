@@ -85,6 +85,7 @@
 ![image](https://github.com/xz55632/market/blob/main/%E5%AE%BF6.jpg)
 
 圖5-6維修員管理介面圖
+
 宿舍資訊管理，在宿舍資訊管理頁面可以對索引、宿舍名稱、位置、床位數、狀態等內容進行發布、宿舍衛生修改或刪除等操作，如圖5-7所示。
 
 ![image](https://github.com/xz55632/market/blob/main/%E5%AE%BF7.jpg)
