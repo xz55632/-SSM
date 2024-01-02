@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-01-02T13:43:38.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6-RTCUcAfHWIzA4Y8hdu" version="22.1.16" type="device">
+  <diagram name="第 1 页" id="HjPA5xtiJfU4lGgb_Tsx">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-1" value="宿舍衛生管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-2" value="索引" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-3" value="宿舍名稱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="285.3499999999999" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-4" value="位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501.3900000000001" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-5" value="是否消毒" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260.3499999999999" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-6" value="消毒視頻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-7" value="時間" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-8" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=-57;" vertex="1" parent="1">
+          <mxGeometry x="431.1500000000001" y="360.98" width="10" height="308.94" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-9" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=-25;" vertex="1" parent="1">
+          <mxGeometry x="501.3900000000001" y="348.5799999999999" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-10" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340.3499999999999" width="10" height="259.65" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-11" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="634.6700000000001" y="321.25" width="10" height="298.48" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-12" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=50;" vertex="1" parent="1">
+          <mxGeometry x="695.03" y="311.6700000000001" width="10" height="345.15" as="geometry" />
+        </mxCell>
+        <mxCell id="QtoWqBXK7rIs2_Sj8q02-13" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=72;" vertex="1" parent="1">
+          <mxGeometry x="758.29" y="324.19000000000005" width="10" height="415.15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
