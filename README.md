@@ -44,7 +44,7 @@
 圖4-1員工註冊實體圖
 宿舍衛生管理實體圖如圖4-2所示：
 
-![image](https://github.com/xz55632/market/blob/main/11024142-4.png)
+![image](https://github.com/xz55632/-SSM/blob/main/%E5%93%A1%E5%B7%A54.png)
 
 圖4-2宿舍衛生管理實體圖
 
