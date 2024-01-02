@@ -28,7 +28,7 @@
 
 # 3.4系統用例圖
 系統用例圖如下圖3-2所示：
-![image](https://github.com/xz55632/-SSM/blob/main/%E5%AE%BF%E8%88%8D%E8%A1%9B%E7%94%9F%E7%AE%A1%E7%90%86%E5%AF%A6%E9%AB%94%E5%9C%96.drawio)
+![image](https://github.com/xz55632/-SSM/blob/main/%E7%B3%BB%E7%B5%B1%E6%A5%AD%E5%8B%99%E7%94%A8%E4%BE%8B%E5%9C%96.drawio)
 
 # 4.系統設計
 # 4.1資料庫設計
